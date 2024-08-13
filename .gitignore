@@ -1,0 +1,6 @@
+collections/
+output/
+__pycache__/
+blocks/
+venv/
+search_out/

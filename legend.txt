@@ -1,0 +1,4 @@
+doc_mapping: id, pmid, n_terms_doc, doc_norm
+index: term: [(doc_id, term_freq_doc, [position list])]
+pointers: term, idf, pointer_bytes
+metadata: avdl
